@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/src/java/bean/RegisterDao.java</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/src/java/bean/Provider.java</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/src/java/bean/User.java</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/admin_login.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/user_show_details.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/view_food_admin.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/index.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/view_order.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/logout.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/src/java/bean/ConnectionProvider.java</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/view_order_admin.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/user_login.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/admin_show_details.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/admin_validate.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/user_validate.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/add_food_admin.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/login.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/register.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/registration_process.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/view_food.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/web/view_user_admin.jsp</file>
+            <file>file:/home/anoop/NetBeansProjects/OnlineFood/src/java/bean/UserDetails.java</file>
+        </group>
+    </open-files>
+</project-private>
